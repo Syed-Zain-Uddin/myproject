@@ -1,3 +1,5 @@
 3rd text one
 3rd text two
-3rd text three
+3rd text three 
+chage in master
+from dev merge in master
