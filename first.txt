@@ -1,3 +1,7 @@
 1st text one
 1st text two
+<<<<<<< HEAD
 change in master
+=======
+change in repo live
+>>>>>>> ab1b39aa6c22c83156333a36d9718c86af0bc76e
